@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>three.js webgl - materials - video</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<link type="text/css" rel="stylesheet" href="main.css">
+		<link type="text/css" rel="stylesheet" href="mini-dark.css">
+        <style>
+          #startButton {
+          display:none;
+          }
+        </style>
+	</head>
+	<body>
+
+		<div id="overlay">
+          <div class="box2">
+            <center><h2 class="rain2"> Welcome to the Endgame </h2></center>
+            <hr/>
+            <div class="box">
+              Get Crypto Wallet
+              <div class="box3 row">
+                <button onClick="window.open('https://metamask.io/');">
+                  Desktop</button>
+                <button onClick="window.open('https://trustwallet.com/');">
+                 Mobile</button>
+              </div>
+            </div>
+            <div class="box">
+              Buy BNB 
+              <div class="box3 row">
+                <button onClick="window.open('https://changenow.io/exchange?from=usd&to=bnbbsc&fiatMode=true&amount=50');">
+                changenow.io</button>
+              </div>
+            </div>
+            <div class="box">
+              BNB to BITCOIN
+              <div class="box3 row">
+                <button onClick="window.open('https://www.example.com');">
+                   flooz.trade
+                </button>
+              </div>
+            </div>
+            <!-- <div class="box"> -->
+            <!--   4.??????????????????  -->
+            <!-- </div> -->
+            <hr/>
+            <div class="box">
+              <div class="row rain2">
+                <a href="https://hpos10i.com">HPOS10I.COM</a>
+              </div>
+            </div>
+            <!-- <center><h3>MOON</h3></center> -->
+          </div>
+          <!-- <div class="box"> -->
+
+          <!--   helllo world -->
+          <!--   </div> -->
+		</div>
+			<button id="startButton">Play</button>
+		<div id="container"></div>
+
+		<div id="info">
+			<!-- <a href="https://threejs.org" target="_blank" rel="noopener">three.js</a> - webgl video demo<br/> -->
+			<!-- playing <a href="http://durian.blender.org/" target="_blank" rel="noopener">sintel</a> trailer -->
+		</div>
+
+		<video id="video" loop crossOrigin="anonymous" playsinline style="display:none" muted="muted">
+			<!-- <source src="" type='video/ogg; codecs="theora, vorbis"'> -->
+			<source src="2.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+		</video>
+
+		<script src="1.js" type="module">
+
+		</script>
+
+	</body>
+</html>
