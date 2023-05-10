@@ -1,58 +1,6 @@
-funny-pictures\HPOS10I
-funny-pictures\1.png
-funny-pictures\1636407697051.png
-funny-pictures\1636426593859.png
-funny-pictures\1636511306960.html
-funny-pictures\252301962_3023717047876462_6921126599228098751_n.png
-funny-pictures\254302506_1086133262198095_1378791406117185166_n.png
-funny-pictures\3940E8D5-7BCF-4B51-93F7-9F06E26AA2D4.jpg
-funny-pictures\asfwef.jpg
-funny-pictures\buy-now-hpos10i.jpg
-funny-pictures\buy-today-hpos10i.jpg
-funny-pictures\casino-night-zone.gif
-funny-pictures\dont-care-hpos10i.jpg
-funny-pictures\dorsia2-hpos10i.jpg
-funny-pictures\egypt-hpos10i.jpg
-funny-pictures\harry-potter-owl.gif
-funny-pictures\harrypotterrugpull-hpos10i.jpg
-funny-pictures\Hotpot1.png
-funny-pictures\hpos10i.png
-funny-pictures\hpos10i_logo.png
-funny-pictures\hpos10i-musk-kanye.jpg
-funny-pictures\hpostriangle (3).jpg
-funny-pictures\image.png
-funny-pictures\image1.png
-funny-pictures\IMG_0040.jpg
-funny-pictures\IMG_1326.jpg
-funny-pictures\montage_array.jpg
-funny-pictures\photo_2021-11-09_23-24-31.jpg
-funny-pictures\photo_2021-11-09_23-24-59.jpg
-funny-pictures\photo_2021-11-09_23-47-46.jpg
-funny-pictures\photo_2021-11-09_23-56-39.jpg
-funny-pictures\photo_2021-11-10_09-56-59.jpg
-funny-pictures\photo_2021-11-10_09-57-14.jpg
-funny-pictures\photo_2021-11-10_09-57-19.jpg
-funny-pictures\photo_2021-11-10_09-57-30.jpg
-funny-pictures\photo_2021-11-27_14-53-42.jpg
-funny-pictures\photo_2022-01-21_17-32-16.jpg
-funny-pictures\photo_2022-01-22_11-54-25.jpg
-funny-pictures\photo_2022-01-24_16-56-24 (2).jpg
-funny-pictures\photo_2022-02-04_02-11-15.jpg
-funny-pictures\photo_2022-02-04_22-41-36.jpg
-funny-pictures\photo_2022-02-04_22-46-54.jpg
-funny-pictures\photo_2022-02-05_12-50-17.jpg
-funny-pictures\photo_2022-02-06_20-01-26.jpg
-funny-pictures\photo_2022-02-07_00-58-21.jpg
-funny-pictures\photo_2022-02-07_04-15-57.jpg
-funny-pictures\photo_2022-02-08_21-39-57.jpg
-funny-pictures\photo_2022-02-15_10-15-48.jpg
-funny-pictures\photo_2022-02-18_21-27-23.jpg
-funny-pictures\photo_2022-02-20_09-00-20.jpg
-funny-pictures\photo_2022-02-20_09-50-44.jpg
-funny-pictures\photo_2022-02-20_23-43-31.jpg
-funny-pictures\photo_2022-02-22_03-29-45.jpg
-funny-pictures\photo_2022-02-26_00-02-08.jpg
-funny-pictures\photo_2022-03-10_13-26-48.jpg
+create img html like this example
+<img  src="img/thumb1.jpg"  style="max-width: 400px;"/>
+for every line listed below
 funny-pictures\photo_2022-03-26_01-32-38.jpg
 funny-pictures\photo_2022-03-26_01-32-40.jpg
 funny-pictures\photo_2022-03-26_01-32-44.jpg
