@@ -1,6 +1,11 @@
 * {
   cursor: url("wand.png"), crosshair !important;
 }
+
+@font-face { 
+  font-family: "Nise-Sega"; src: url(NiseSega.TTF); 
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -217,6 +222,7 @@ overflow-wrap: break-word;
 	height: 50%;
 	background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.2));
 }
-  .none {
+
+.none {
   display:none;
   }
