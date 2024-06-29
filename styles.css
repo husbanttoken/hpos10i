@@ -29,6 +29,23 @@ body {
 a {
   background-color:rgba(255, 255, 255, 1);;
 }
+#dank-memes > a {
+  background-color:transparent;
+}
+
+#dank-memes img {
+    /* box-shadow: 0.06rem 0.12rem 0 rgba(200, 100, 100, 0.5), 0 0.06rem 0 rgba(200, 100, 100, 0.5),
+      0 0 5px rgba(0, 0, 0, 0.4); */
+    transition: ease-in-out 0.2s;
+}
+
+#dank-memes img:hover {
+  filter: hue-rotate(90deg);
+  transform: translateY(-8pt);
+  box-shadow: 0.06rem 0.12rem 0 rgba(200, 100, 100, 0.5), 0 0.06rem 0 rgba(200, 100, 100, 0.5),
+    0 9pt 8px rgba(0, 0, 0, 0.28);
+}
+
 .header-img {
   max-height: 18px;
 }
@@ -51,13 +68,20 @@ div.content-area {
 .top-nav {
   font-weight: bold;
 }
-#harrypotterobamasonic10inu {
+.harrypotterobamasonic10inu {
+  font-family: "Nise-Sega";
+  font-weight: 100;
   background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-top:-1em;
 } 
+
+h2 {
+  font-family: "Nise-Sega";
+  font-weight: 100;
+}
 
 /* snitch */
 
@@ -154,11 +178,6 @@ padding: 15px 0;
 
 @font-face { 
 font-family: "Nise-Sega"; src: url(NiseSega.TTF); 
-}
-
-#HarryPotterObamaSonic10Inu {
-font-family: "Nise-Sega";
-font-weight: 100;
 }
 
 .HowToBuy, .ca {
