@@ -86,6 +86,7 @@ div.content-area {
 h2 {
   font-family: "Nise-Sega";
   font-weight: 100;
+  color:#f7a600;
 }
 
 /* snitch */
@@ -186,15 +187,15 @@ font-family: "Nise-Sega"; src: url(NiseSega.TTF);
 }
 
 .HowToBuy, .ca {
-font-size:1.3rem;
+  font-size:1.3rem;
 }
 .highlight {
-font-size:1rem;
+  font-size:1rem;
 }
 .addy{
-color:turquoise;
-font-family: 'Courier';
-overflow-wrap: break-word;
+  color:turquoise;
+  font-family: 'Courier';
+  overflow-wrap: break-word;
 }
 .shinybtn {
 	/* background styles */
@@ -205,16 +206,16 @@ overflow-wrap: break-word;
 	background-image: linear-gradient(gold,rgb(213, 181, 0));
 
 	/* text styles */
-    color: blue;
-    font-weight: bol;
+  color: blue;
+  font-weight: bol;
 	text-decoration: none;
 	font-size: 25px;
 	font-family: sans-serif;
-    margin-bottom: 3rem;
+  margin-bottom: 3rem;
 }
 
 .shinybtn:after {
-    content: '';
+  content: '';
 	position: absolute;
 	top: 2px;
 	left: 2px;
@@ -223,6 +224,10 @@ overflow-wrap: break-word;
 	background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.2));
 }
 
+.bybit-orange {
+  color:#f7a600;
+}
+
 .none {
   display:none;
-  }
+}
