@@ -32,7 +32,8 @@ body {
   background-color: rgba(70, 30, 30, 0.829);
 }
 a {
-  background-color:rgba(255, 255, 255, 1);;
+  color: #007ffd
+  /* background-color:rgba(255, 255, 255, 1);; */
 }
 #dank-memes > a {
   background-color:transparent;
@@ -186,7 +187,7 @@ padding: 15px 0;
 font-family: "Nise-Sega"; src: url(NiseSega.TTF); 
 }
 
-.HowToBuy, .ca {
+.larger-tx, .ca {
   font-size:1.3rem;
 }
 .highlight {
