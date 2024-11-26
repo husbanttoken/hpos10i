@@ -192,6 +192,15 @@ font-family: "Nise-Sega"; src: url(NiseSega.TTF);
 }
 .highlight {
   font-size:1rem;
+  font-family: 'Courier';
+}
+.bridge {
+  list-style-type: none;
+}
+
+.mayan {
+  font-size:1.3rem;
+  font-family: 'Courier';
 }
 .addy{
   color:turquoise;
