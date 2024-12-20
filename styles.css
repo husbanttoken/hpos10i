@@ -6,6 +6,10 @@
   font-family: "Nise-Sega"; src: url(NiseSega.TTF); 
 }
 
+@font-face { 
+  font-family: "Copperplate Gothic"; src: url("Copperplate\ Gothic.ttf"); 
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -73,6 +77,8 @@ div.content-area {
 }
 .top-nav {
   font-weight: bold;
+  font-family: 'Copperplate Gothic';
+  font-size: 22px;
 }
 .harrypotterobamasonic10inu {
   font-family: "Nise-Sega";
