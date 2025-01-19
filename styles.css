@@ -39,6 +39,9 @@ a {
   color: #007ffd
   /* background-color:rgba(255, 255, 255, 1);; */
 }
+#dank-memes {
+  text-align: center;
+}
 #dank-memes > a {
   background-color:transparent;
 }
