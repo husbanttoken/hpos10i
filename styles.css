@@ -3,13 +3,16 @@
 }
 
 @font-face { 
-  font-family: "Nise-Sega"; src: url(NiseSega.TTF); 
+  font-family: "Nise-Sega"; src: url(fonts/NiseSega.TTF); 
 }
 
 @font-face { 
-  font-family: "Copperplate Gothic"; src: url("Copperplate\ Gothic.ttf"); 
+  font-family: "Copperplate Gothic"; src: url("fonts/Copperplate\ Gothic.ttf"); 
 }
 
+@font-face {
+  font-family: "Basilea"; src: url("fonts/Basilea\ Regular.ttf")
+}
 body {
   margin: 0;
   padding: 0;
@@ -250,4 +253,8 @@ font-family: "Nise-Sega"; src: url(NiseSega.TTF);
 
 .none {
   display:none;
+}
+
+.parody {
+  font-family: "Basilea";
 }
